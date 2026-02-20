@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "暁光",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-20T02:20:06.754939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "暁光",
+      "artist": "Half time Old",
+      "has_synced": true,
+      "path": "select/01_暁光_Half_time_Old.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "暁光",
+      "artist": "Arika",
+      "has_synced": false,
+      "path": "select/02_暁光_Arika.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暁光",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_暁光_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
